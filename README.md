@@ -21,21 +21,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+My first E-Book
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um E-book, totalmente com base em IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat Gpt para buscar os dados no site da CAIXA e criar os tópicos;
+LeonardoAi para criar a foto de capa;
+Microsoft PowerPoit para edição;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Comecei utilizando o Chat Gpt para parte de texto. Em seguida o LeonardoAi para criação das imagens. Por fim, compilei dentro do PowerPoint.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Está anexado
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É algo muito surpreendente saber que podemos criar um material totalmente com utilização de ferramentas de inteligência.
 ```
 
 ### Exemplos e Insigths
